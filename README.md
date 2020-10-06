@@ -2,15 +2,14 @@
 
 ### Creational
 
-`constructor`
+  `constructor`
 
+  `factory`
 
-`factory`
+  `prototype`
 
-`prototype`
-
-`singleton`
+  `singleton`
 
 ### Structural
 
-`adapter`
+  `adapter`
