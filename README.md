@@ -2,16 +2,16 @@
 
 ## All paterns are divided into these categories:
 
-### Creational
+  ### Creational
 
-  `constructor`
+      `constructor`
 
-  `factory`
+      `factory`
 
-  `prototype`
+      `prototype`
 
-  `singleton`
+      `singleton`
 
-### Structural
+  ### Structural
 
-  `adapter`
+      `adapter`
