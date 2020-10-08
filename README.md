@@ -19,3 +19,25 @@
 `decorator`
 
 `facade`
+
+`flyweight`
+
+`proxy`
+
+ ### Behaviour
+ 
+`chain of responsibility`
+
+`command`
+
+`iterator`
+
+`mediator`
+
+`observer`
+
+`state`
+
+`strategy`
+
+`template`
