@@ -10,7 +10,7 @@ class RedLight extends Light {
   }
 
   sign() {
-    return 'СТОП'
+    return 'STOP'
   }
 }
 
@@ -20,7 +20,7 @@ class YellowLight extends Light {
   }
 
   sign() {
-    return 'ГОТОВЬСЯ'
+    return 'PREPARE'
   }
 }
 
@@ -30,7 +30,7 @@ class GreenLight extends Light {
   }
 
   sign() {
-    return 'ЕДЬ!'
+    return 'GO!'
   }
 }
 
